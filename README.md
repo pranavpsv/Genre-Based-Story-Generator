@@ -9,7 +9,7 @@ If you want to use the above link, the input prompt has to be in the format:
 
 Supported genres: superhero, sci_fi, horror, action, thriller, drama
 
-Alternatively, an experimental Streamlit web app is hosted [here](http://52.91.134.248:8501).
+Alternatively, an experimental Streamlit web app is hosted [here](http://54.173.99.218:8501).
 
 Created by fine-tuning GPT2 on genre-based stories.
 
